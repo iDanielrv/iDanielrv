@@ -64,9 +64,9 @@ I've worked in both a **multinational corporate environment** (Hyundai Autoever 
 
 <div align="center">
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iDanielrv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iDanielrv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iDanielrv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iDanielrv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&langs_count=8)
 
 </div>
 
