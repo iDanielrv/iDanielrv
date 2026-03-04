@@ -23,7 +23,6 @@ I've worked in both a **multinational corporate environment** (Hyundai Autoever 
 - 🎓 Finishing my **B.S. in Computer Science** at FAM (2026)
 - 🤖 Leverage **GitHub Copilot** daily to ship faster without cutting corners
 - 💬 Ask me about React, Next.js, Nest.js, Prisma, or API design
-[- 📫 Reach me at **daniel@gmail.com**](url)
 - 🌐 PT-BR Native · EN Advanced
 
 ---
@@ -85,7 +84,5 @@ I've worked in both a **multinational corporate environment** (Hyundai Autoever 
 <div align="center">
 
 *Open to new opportunities — let's build something great together.*
-
-[[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)](url)
 
 </div>
