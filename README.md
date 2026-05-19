@@ -65,9 +65,11 @@ I've worked in both a **multinational corporate environment** (Hyundai Autoever 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iDanielrv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDanielrv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&langs_count=8" alt="Top Languages" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=iDanielrv&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iDanielrv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
