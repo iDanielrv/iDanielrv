@@ -2,11 +2,10 @@
 
 # Hey, I'm Daniel RV 👋
 
-**Fullstack Developer** · React · Next.js · Nest.js · TypeScript
+**Fullstack Developer** · React · Next.js · NestJS · TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danielrv@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-ripperv)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danielrippervitorino@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=iDanielrv&style=flat-square&color=00e5ff)
 
 </div>
@@ -15,14 +14,17 @@
 
 ### About me
 
-I'm a Fullstack Developer based in **Americana, São Paulo — Brazil** with 3+ years of experience building web applications end-to-end — from requirements gathering to deployment and support.
+Fullstack Developer with 3+ years building web applications end-to-end — from requirements to production. Based in **São Paulo, Brazil**.
+
+I specialize in React, Next.js, and NestJS (TypeScript), with solid experience in relational databases using MySQL + Prisma ORM.
 
 I've worked in both a **multinational corporate environment** (Hyundai Autoever Brazil) and a **fast-paced software house** (Hybriun), which gave me a rare mix of structured engineering practices and agile, client-facing delivery.
 
-- 🔭 Currently working at **Hybriun** building full-stack products with Next.js + Nest.js
+- 🔭 Currently at **Hybriun** building SaaS products with Next.js, NestJS and Prisma
+- 🚀 Latest project: **Markei** — Booking platform with Telegram bot integration
 - 🎓 Finishing my **B.S. in Computer Science** at FAM (2026)
 - 🤖 Leverage **GitHub Copilot** daily to ship faster without cutting corners
-- 💬 Ask me about React, Next.js, Nest.js, Prisma, or API design
+- 💬 Ask me about Next.js, NestJS, Prisma, REST APIs, or JWT auth
 - 🌐 PT-BR Native · EN Advanced
 
 ---
@@ -40,7 +42,7 @@ I've worked in both a **multinational corporate environment** (Hyundai Autoever 
 
 **Backend**
 
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
@@ -63,11 +65,9 @@ I've worked in both a **multinational corporate environment** (Hyundai Autoever 
 ### GitHub Stats
 
 <div align="center">
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iDanielrv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iDanielrv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&langs_count=8)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=iDanielrv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDanielrv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -76,8 +76,8 @@ I've worked in both a **multinational corporate environment** (Hyundai Autoever 
 
 | Period | Role | Company |
 |--------|------|---------|
-| 2024 — Present | Fullstack Developer | Hybriun |
-| 2022 — 2024 | Fullstack Developer | Hyundai Autoever Brazil |
+| 2023 — Present | Fullstack Developer | Hybriun |
+| 2022 — 2023 | Fullstack Developer | Hyundai Autoever Brazil |
 
 ---
 
